@@ -27,13 +27,17 @@ body{
     grid-template-rows: 50% 50%;
     gap: 1rem;
     padding: 10px 40px;
+  max-width: 1360px;
+  margin:auto;
 }
 .items{
  color: white; 
  padding: 30px;
  border-radius: 1rem;
- 
+ cursor: pointer;
+ transition: ease-out;
 }
+
 .text>p:first-child{
   font-size: 20px;
   font-weight: 600;
@@ -45,6 +49,9 @@ body{
 .items:nth-child(1){
   grid-column:1/3;
   background-color: var(--Moderate-violet);
+  background-image: url(./images/bg-pattern-quotation.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 .items:nth-child(2){
   background-color: var(--Very-dark-grayish-blue);
