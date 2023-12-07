@@ -11,7 +11,7 @@
   - [Contact](#contact)
 
 ## Introduction
-This is the webpage of the project cello world asainged by the geekster under geekhathon.This page is built using only HTML and CSS with the help of this webpage we can create a user interface for viewing and ordering jars& container quickly and efficiently.
+This is the webpage of the project cello world asainged by the geekster under geekhathon.This page is built using only HTML and CSS with the help of this webpage we can create a user interface for viewing and ordering jars&container quickly and efficiently.
 
 ## Features
 
@@ -27,7 +27,7 @@ This is the webpage of the project cello world asainged by the geekster under ge
 
 ## Challenges Faced
 
-During the development of the web page , I encountered several challenges, especially while creating responsive like image and  overlapping.
+During the development of the web page , I encountered several challenges, especially while creating responsive like image and text overlapping.
 Then for design layout to fit the products,
 and making them responsive.
 
